@@ -1,0 +1,1 @@
+"# Tetris2D"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/zemi-taj-fromaz/Tetris2D.gitgit push -u origin main

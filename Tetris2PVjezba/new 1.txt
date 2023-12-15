@@ -1,0 +1,7 @@
+Hrvoje Ljubas
+Izbještaj za laboratorijsku vježbu - UMrežene igre
+
+Osim implementacije dodatne promjene nisam radio.
+
+Link na projekt na githubu : 
+https://github.com/zemi-taj-fromaz/Tetris2D
